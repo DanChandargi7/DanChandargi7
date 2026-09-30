@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🎓 B.E. Computer Engineering at **Pune Institute of Computer Technology** (CGPA: **9.37**)
-- 💼 Currently an **SDE Intern at UPTIQ.AI** — building backend APIs and product features for a commercial lending platform
+- 💼 Currently an **SDE at UPTIQ.AI** — building backend APIs and product features for a commercial lending platform
 - 🏗️ Previously an **AI & Data Intern at RCG Global Services** — automated workflows and report generation using Python & Power Automate
 - ⚙️ I love building full-stack systems with clean APIs, solid databases, and thoughtful architecture
 - 🏈 Fun fact: Represented **Maharashtra at Nationals** in Football (SGFI 2018, 2019)
