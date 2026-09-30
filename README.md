@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danish Chandargi 👋</h1>
 
 <p align="center">
-  <b>SDE Intern @ UPTIQ.AI &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Computer Engineering @ PICT Pune</b><br/>
+  <b>SDE @ UPTIQ.AI &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Computer Engineering @ PICT Pune</b><br/>
   <i>Building reliable systems, RESTful APIs, and data-driven applications</i>
 </p>
 
